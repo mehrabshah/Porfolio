@@ -1,4 +1,5 @@
 # Profolio
+![screencapture-localhost-3002-2023-07-09-01_36_51](https://github.com/mehrabshah/Porfolio/assets/59573517/03881030-fd59-4c82-9513-72b78bd31649)
 
 ## Introduction
 Profolio is a personal portfolio website built using React.js and Tailwind CSS. It showcases information about my technology stack, about me, the services I offer, and my projects. It also provides links to my social profiles.
